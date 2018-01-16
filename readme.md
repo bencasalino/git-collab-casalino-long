@@ -20,4 +20,4 @@ We are both collaborators on the same repo and will both commit changes.
 
 ### Task 9: Ben - You should create a new CSS file. Link to it from one of your HTML files.
 
-### Task 10: Bryan -
+### Task 10: Bryan - You should create a new HTML file. Link to it from index.html
