@@ -4,14 +4,10 @@ We are both collaborators on the same repo and will both commit changes.
 
 ### Task 1: Ben - Created a new CSS file and linked to it from one of your HTML files.
 
-<<<<<<< HEAD
-### Task 2: Brian - 
-=======
 ### Task 2: Brian -
 You should create an array of objects. Each object should have a name and age.
->>>>>>> 3ff77e57bdbc569c2360cfb65dbf8ac299f137d3
 
-### Task 3: Ben -
+### Task 3: Ben - You should edit an HTML file. Add a paragraph about something you like.
 
 ### Task 4: Brian -
 
