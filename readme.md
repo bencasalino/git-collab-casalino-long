@@ -18,6 +18,6 @@ We are both collaborators on the same repo and will both commit changes.
 
 ### Task 8:  Bryan - Move one file into a new directory that you make from the command line
 
-### Task 9: Ben -
+### Task 9: Ben - You should create a new CSS file. Link to it from one of your HTML files.
 
 ### Task 10: Bryan -
