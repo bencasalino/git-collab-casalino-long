@@ -10,6 +10,7 @@ You should create an array of objects. Each object should have a name and age.
 ### Task 3: Ben - You should edit an HTML file. Add a paragraph about something you like.
 
 ### Task 4: Brian -
+You should edit five CSS properties.
 
 ### Task 5: Ben -
 
