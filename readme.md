@@ -4,7 +4,7 @@ We are both collaborators on the same repo and will both commit changes.
 
 ### Task 1: Ben - Created a new CSS file and linked to it from one of your HTML files.
 
-### Task 2: Brian -
+### Task 2: Brian - 
 
 ### Task 3: Ben - 
 
