@@ -14,7 +14,7 @@ We are both collaborators on the same repo and will both commit changes.
 
 ### Task 6: Bryan - You should edit an HTML file. Add a recipe that you like using lists.
 
-### Task 7: Ben -
+### Task 7: Ben - Edit five CSS properties.
 
 ### Task 8:  Bryan -
 
